@@ -1456,6 +1456,7 @@ Software that does not fit in another section.
 - [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
 - [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
 - [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) `⚠` - Media tracker for movies, tv shows, anime, manga, video games and books. ([Demo](https://github.com/FuzzyGrim/Yamtrack?tab=readme-ov-file#demo)) `AGPL-3.0` `Docker/Python`
+- [Yamtrack Mod](https://github.com/omfgnuts/yamtrack-ce-mod) `⚠` - A rapidly developing fork of a media tracker (Yamtrack), with a primary focus on movies and TV shows. ([Source Code](https://github.com/omfgnuts/yamtrack-ce-mod)) `AGPL-3.0` `Docker/Python`
 - [Zero-TOTP](https://zero-totp.com) - Complete, reliable, secure and zero-trust webapp based on zero-knowledge encryption to store your TOTP codes. ([Source Code](https://github.com/SeaweedbrainCY/zero-totp)) `GPL-3.0` `Docker`
 
 
